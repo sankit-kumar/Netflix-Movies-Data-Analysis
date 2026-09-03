@@ -88,3 +88,6 @@ Through this project, I practiced:
 ### Skills Used
 
 **Python | Pandas | NumPy | Matplotlib | Seaborn | Data Analysis**
+
+
+('https://github.com/sankit-kumar/Netflix-Movies-Data-Analysis/blob/main/Screenshot%202026-09-03%20191325%20-%20Copy%20(2).png')
